@@ -8,7 +8,7 @@
 class DatabaseAdministrator:
     def __init__(self):
         self.name = "José Carlos dos Anjos"
-        self.role = "Database Administrator Jr"
+        self.role = "Database Administrator"
         self.language_spoken = ["pt_BR", "en_US"]
     def say_hi(self):
         print("Hello everyone, hope you find some of my work interesting.")
