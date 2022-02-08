@@ -24,10 +24,10 @@ me.say_hi()
 ----
 
 <a href="mailto:josec.dosanjos@gmail.com">
-  <img align="left" alt="José C. Instagram" width="20px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
+  <img align="left" alt="José C. Instagram" width="40px" src="https://img.icons8.com/dusk/64/000000/gmail.png" />
 </a>
 <a href="https://www.linkedin.com/in/josecarlosdosanjosjr/">
-  <img align="left" alt="José C. LinkedIn" width="20px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+  <img align="left" alt="José C. LinkedIn" width="40px" src="https://img.icons8.com/dusk/64/000000/linkedin--v1.png" />
 </a>
 
 | &nbsp;&nbsp;&nbsp; Website : [https://jcanjosjr.github.io/home/](https://jcanjosjr.github.io/home/) &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp; Open Source Work : [http://universodown.ong.br/](http://universodown.ong.br/)
