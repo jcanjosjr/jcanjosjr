@@ -48,8 +48,8 @@ me.say_hi()
 <img src="https://img.icons8.com/plasticine/90/000000/bash.png"/>
 <img src="https://img.icons8.com/plasticine/90/000000/skydrive.png"/>
 <img src="https://img.icons8.com/plasticine/90/000000/linux-client.png"/>
+<img src="https://img.icons8.com/plasticine/90/000000/windows-client.png"/>
 <img src="https://img.icons8.com/plasticine/90/000000/logs-folder.png"/>
-<img src="https://img.icons8.com/plasticine/90/000000/api.png"/>
 </p>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jcanjosjr&show_icons=true&theme=buefy&layout=compact&cache_seconds=1800&langs_count=8)](https://github.com/jcanjosjr)
