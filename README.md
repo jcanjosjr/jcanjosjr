@@ -30,7 +30,7 @@ me.say_hi()
   <img align="left" alt="José C. LinkedIn" width="40px" src="https://img.icons8.com/dusk/64/000000/linkedin--v1.png" />
 </a>
 
-| &nbsp;&nbsp;&nbsp; Website : [https://jcanjosjr.github.io/home/](https://jcanjosjr.github.io/home/) &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp; Open Source Work : [http://universodown.ong.br/](http://universodown.ong.br/)
+| &nbsp;&nbsp;&nbsp; Website : [https://jcanjosjr.github.io/home/](https://jcanjosjr.github.io/home/) &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp; Open Source Work : [http://www.adoteumaestrela.com.br/](http://www.adoteumaestrela.com.br/)
 
 ## Tools for Development
 <p>
