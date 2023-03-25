@@ -19,7 +19,7 @@ me.say_hi()
 
 **Pleno Database Analyst** &#12299;_working with Administration & Automation_
 <br/>
-**Studying DevOps and Data Science** &#12299;_OCI Architect Professional certified, and enthusiast on networks_
+**Studying DevOps and Data Engineering** &#12299;_OCI Architect Professional certified, and enthusiast on networks_
 
 ----
 
