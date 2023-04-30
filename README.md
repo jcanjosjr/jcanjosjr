@@ -35,7 +35,6 @@ me.say_hi()
 ## Tools for Development
 <p>
 <img src="https://img.icons8.com/dusk/64/000000/python.png"/>
-<img src="https://img.icons8.com/plasticine/90/000000/bash.png"/>
 <img src="https://img.icons8.com/dusk/64/000000/java-coffee-cup-logo.png"/>
 <img src="https://img.icons8.com/dusk/64/000000/javascript.png"/>
 <img src="https://img.icons8.com/dusk/64/000000/html-5.png"/>
@@ -44,6 +43,7 @@ me.say_hi()
   
 ## Tools for Database Administration, DevOps
 <p>
+<img src="https://img.icons8.com/plasticine/90/000000/bash.png"/>
 <img src="https://img.icons8.com/plasticine/90/000000/oracle-linux.png"/>
 <img src="https://img.icons8.com/plasticine/90/000000/oracle-pl-sql--v3.png"/>
 <img src="https://img.icons8.com/plasticine/90/000000/skydrive.png"/>
