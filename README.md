@@ -34,7 +34,7 @@ me.say_hi()
 
 ## Tools for Development
 <p>
-<img src="https://img.icons8.com/plasticine/90/000000/bash.png"/>
+<img src="https://img.icons8.com/officel/30/console.png"/>
 <img src="https://img.icons8.com/dusk/64/000000/python.png"/>
 <img src="https://img.icons8.com/dusk/64/000000/java-coffee-cup-logo.png"/>
 </p>
