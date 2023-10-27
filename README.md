@@ -1,9 +1,7 @@
 ### Welcome! 
+<sup>"Study hard what interests you the most, in the most undisciplined, irreverent and original manner possible."</sup><sub>Feynmann</sub>
 <img align=right src="https://img.icons8.com/plasticine/100/000000/rick-sanchez.png"/>
 <br>
-<sup>"Study hard what interests you the most, in the most undisciplined, irreverent and original manner possible."</sup><sub>Feynmann</sub>
-
-
 
 ```python
 #!/usr/bin/python
