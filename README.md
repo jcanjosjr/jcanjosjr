@@ -1,6 +1,5 @@
 ### Welcome! 
 <sup>"Study hard what interests you the most, in the most undisciplined, irreverent and original manner possible."</sup><sub>Feynmann</sub>
-<img align=right src="https://img.icons8.com/plasticine/100/000000/rick-sanchez.png"/>
 <br>
 
 ```python
@@ -26,29 +25,7 @@ me.say_hi()
 
 ----
 
-<a href="mailto:josec.dosanjos@gmail.com">
-  <img align="left" alt="José C. Instagram" width="40px" src="https://img.icons8.com/dusk/64/000000/gmail.png" />
-</a>
-<a href="https://www.linkedin.com/in/josecarlosdosanjosjr/">
-  <img align="left" alt="José C. LinkedIn" width="40px" src="https://img.icons8.com/dusk/64/000000/linkedin--v1.png" />
-</a>
-
 | &nbsp;&nbsp;&nbsp; Website : [https://jcanjosjr.github.io/home/](https://jcanjosjr.github.io/home/) &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp; Open Source Work : [http://www.adoteumaestrela.com.br/](http://www.adoteumaestrela.com.br/)
 
-## Tools for Development
-<p>
-<img src="https://img.icons8.com/officel/64/console.png"/>
-<img src="https://img.icons8.com/dusk/64/000000/python.png"/>
-<img src="https://img.icons8.com/dusk/64/000000/java-coffee-cup-logo.png"/>
-</p>
-  
-## Tools for Database Administration, DevOps
-<p>
-<img src="https://img.icons8.com/plasticine/90/000000/oracle-linux.png"/>
-<img src="https://img.icons8.com/plasticine/90/000000/oracle-pl-sql--v3.png"/>
-<img src="https://img.icons8.com/plasticine/90/000000/skydrive.png"/>
-<img src="https://img.icons8.com/plasticine/90/000000/linux-client.png"/>
-<img src="https://img.icons8.com/plasticine/90/000000/windows-client.png"/>
-<img src="https://img.icons8.com/plasticine/90/000000/logs-folder.png"/>
 </p>
 
